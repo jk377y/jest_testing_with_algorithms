@@ -1,15 +1,17 @@
 # Jest Testing with Algorithms
 
 ## Description
-I am writing algorithms and using the Jest NPM package to test them.
+I am writing simple algorithms and practicing using the Jest NPM package to test them.
 
 ## Usage
-You must install the Jest NPM package to run the tests.<br>
+You must have Node.js installed on your computer to run this program.<br>
 
-To install Jest, run the following command:<br>
+Clone this repository to your local computer.<br>
+
+To install Jest, run the following command from the root folder:<br>
 In the terminal run `npm install`<br>
 
-To run the tests, run the following command:<br>
+To run the tests, run the following command from the root folder:<br>
 In the terminal run `npm run test`<br>
 
 <img src="./images/screenshot.JPG"/>
