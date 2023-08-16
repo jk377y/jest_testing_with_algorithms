@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1692202685268" clover="3.2.0">
-  <project timestamp="1692202685268" name="All files">
-    <metrics statements="24" coveredstatements="24" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7" elements="33" coveredelements="33" complexity="0" loc="24" ncloc="24" packages="7" files="7" classes="7"/>
+<coverage generated="1692203791194" clover="3.2.0">
+  <project timestamp="1692203791194" name="All files">
+    <metrics statements="31" coveredstatements="31" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8" elements="43" coveredelements="43" complexity="0" loc="31" ncloc="31" packages="8" files="8" classes="8"/>
     <package name="arithmetic.divide">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="divide.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\arithmetic\divide\divide.js">
@@ -34,6 +34,19 @@
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="evenNums">
+      <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="evenNums.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\evenNums\evenNums.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="21" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="10" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
       </file>
     </package>
     <package name="isPalidrome">
