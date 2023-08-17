@@ -26,6 +26,9 @@ By adding `--coverage` to the jest script command, you can see more detailed res
 <img src="./images/screenshot2.JPG" alt="coverage html browser screenshot" width=800/>
 <br>
 
+<img src="./images/screenshot4.JPG" alt="console with coverage screenshot" width=800/>
+<br>
+
 ## *Questions*
 <h3>Portfolio:&emsp;<a href="https://jk377y.dev" target="_blank">https://jk377y.dev</a></h3>
 <h3>Email:&emsp;<a href="mailto:jk377y@gmail.com" target="_blank">jk377y@gmail.com</a></h3>
