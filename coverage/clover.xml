@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1692239636437" clover="3.2.0">
-  <project timestamp="1692239636437" name="All files">
-    <metrics statements="60" coveredstatements="60" conditionals="20" coveredconditionals="20" methods="11" coveredmethods="11" elements="91" coveredelements="91" complexity="0" loc="60" ncloc="60" packages="11" files="11" classes="11"/>
+<coverage generated="1692241308263" clover="3.2.0">
+  <project timestamp="1692241308263" name="All files">
+    <metrics statements="79" coveredstatements="79" conditionals="22" coveredconditionals="22" methods="17" coveredmethods="17" elements="118" coveredelements="118" complexity="0" loc="79" ncloc="79" packages="16" files="16" classes="16"/>
     <package name="arithmetic.divide">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="divide.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\arithmetic\divide\divide.js">
@@ -54,6 +54,16 @@
         <line num="17" count="1" type="stmt"/>
       </file>
     </package>
+    <package name="countVowels">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="countVowels.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\countVowels\countVowels.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="24" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="evenNums">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <file name="evenNums.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\evenNums\evenNums.js">
@@ -96,6 +106,18 @@
         <line num="17" count="1" type="stmt"/>
       </file>
     </package>
+    <package name="ifArrayIsSorted">
+      <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="ifArrayIsSorted.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\ifArrayIsSorted\ifArrayIsSorted.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+    </package>
     <package name="isPalidrome">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <file name="isPalidrome.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\isPalidrome\isPalidrome.js">
@@ -126,6 +148,33 @@
         <line num="4" count="14" type="stmt"/>
         <line num="6" count="2" type="stmt"/>
         <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="maxValueInArray">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="maxValueInArray.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\maxValueInArray\maxValueInArray.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="removeDuplicates">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="removeDuplicates.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\removeDuplicates\removeDuplicates.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="reverseString">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="reverseString.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\reverseString\reverseString.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
       </file>
     </package>
   </project>

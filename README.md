@@ -14,7 +14,16 @@ In the terminal run `npm install`<br>
 To run the tests, run the following command from the root folder:<br>
 In the terminal run `npm run test`<br>
 
-<img src="./images/screenshot.JPG"/>
+<img src="./images/screenshot.JPG" alt="console screenshot" width=800/>
+<br>
+<br>
+
+By adding `--coverage` to the jest script command, you can see more detailed results in the console and also additional files are generated with more detailed information.<br>
+
+<img src="./images/screenshot3.JPG" alt="coverage script screenshot" width=500/>
+<br>
+
+<img src="./images/screenshot2.JPG" alt="coverage html browser screenshot" width=800/>
 <br>
 
 ## *Questions*
