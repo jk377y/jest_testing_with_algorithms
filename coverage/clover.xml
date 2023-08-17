@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1692219271700" clover="3.2.0">
-  <project timestamp="1692219271700" name="All files">
-    <metrics statements="57" coveredstatements="57" conditionals="20" coveredconditionals="20" methods="11" coveredmethods="11" elements="88" coveredelements="88" complexity="0" loc="57" ncloc="57" packages="11" files="11" classes="11"/>
+<coverage generated="1692239636437" clover="3.2.0">
+  <project timestamp="1692239636437" name="All files">
+    <metrics statements="60" coveredstatements="60" conditionals="20" coveredconditionals="20" methods="11" coveredmethods="11" elements="91" coveredelements="91" complexity="0" loc="60" ncloc="60" packages="11" files="11" classes="11"/>
     <package name="arithmetic.divide">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="divide.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\arithmetic\divide\divide.js">
+      <file name="divide.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\arithmetic\divide\divide.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="3" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
@@ -12,7 +12,7 @@
     </package>
     <package name="arithmetic.multiply">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="multiply.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\arithmetic\multiply\multiply.js">
+      <file name="multiply.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\arithmetic\multiply\multiply.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="5" type="stmt"/>
@@ -21,7 +21,7 @@
     </package>
     <package name="arithmetic.subtract">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="subtract.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\arithmetic\subtract\subtract.js">
+      <file name="subtract.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\arithmetic\subtract\subtract.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
@@ -30,16 +30,17 @@
     </package>
     <package name="arithmetic.sum">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="sum.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\arithmetic\sum\sum.js">
+      <file name="sum.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\arithmetic\sum\sum.js">
         <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
       </file>
     </package>
     <package name="binarySearch">
-      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <file name="binarySearch.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\binarySearch\binarySearch.js">
-        <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="binarySearch.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\binarySearch\binarySearch.js">
+        <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
@@ -55,7 +56,7 @@
     </package>
     <package name="evenNums">
       <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <file name="evenNums.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\evenNums\evenNums.js">
+      <file name="evenNums.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\evenNums\evenNums.js">
         <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
@@ -67,9 +68,10 @@
       </file>
     </package>
     <package name="factorial">
-      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <file name="factorial.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\factorial\factorial.js">
-        <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="factorial.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\factorial\factorial.js">
+        <metrics statements="5" coveredstatements="5" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
         <line num="2" count="6" type="cond" truecount="4" falsecount="0"/>
         <line num="3" count="2" type="stmt"/>
         <line num="5" count="4" type="stmt"/>
@@ -77,9 +79,10 @@
       </file>
     </package>
     <package name="fizzBuzz">
-      <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
-      <file name="fizzBuzz.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\fizzBuzz\fizzBuzz.js">
-        <metrics statements="11" coveredstatements="11" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <file name="fizzBuzz.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\fizzBuzz\fizzBuzz.js">
+        <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
         <line num="2" count="3" type="stmt"/>
         <line num="3" count="3" type="stmt"/>
         <line num="4" count="31" type="cond" truecount="4" falsecount="0"/>
@@ -95,7 +98,7 @@
     </package>
     <package name="isPalidrome">
       <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="isPalidrome.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\isPalidrome\isPalidrome.js">
+      <file name="isPalidrome.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\isPalidrome\isPalidrome.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
@@ -104,7 +107,7 @@
     </package>
     <package name="logEvenOrOdd">
       <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
-      <file name="logEvenOrOdd.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\logEvenOrOdd\logEvenOrOdd.js">
+      <file name="logEvenOrOdd.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\logEvenOrOdd\logEvenOrOdd.js">
         <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
@@ -115,7 +118,7 @@
     </package>
     <package name="logNums">
       <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <file name="logNums.js" path="C:\Users\jk377\Desktop\jest_testing_with_algorithms\algorithms\logNums\logNums.js">
+      <file name="logNums.js" path="C:\Users\jk377\Desktop\Algorithms with Jest Tests\algorithms\logNums\logNums.js">
         <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="2" type="stmt"/>
